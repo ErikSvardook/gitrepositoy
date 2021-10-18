@@ -1,2 +1,2 @@
-# gitrepositoy
+# gitrepository
 Mi primer repositorio
