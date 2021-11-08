@@ -1,0 +1,51 @@
+\newpage
+
+\newline
+
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=8cm]{Imagenes/inicio.png}
+\caption{Imagen de inicio}
+\label{fin_bayes}
+\end{figure}
+
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=8cm]{Imagenes/alumnos.png}
+\caption{Imagen pantalla de alumnos}
+\label{fin_bayes}
+\end{figure}
+
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=8cm]{Imagenes/maestrosd.png}
+\caption{Imagen pantalla de maestros}
+\label{fin_bayes}
+\end{figure}
+
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=8cm]{Imagenes/materias.png}
+\caption{Imagen pantalla de materias}
+\label{fin_bayes}
+\end{figure}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=8cm]{Imagenes/subir calif.png}
+\caption{Imagen pantalla de subir calificaciones}
+\label{fin_bayes}
+\end{figure}
+
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=8cm]{Imagenes/asistencia.png}
+\caption{Imagen pantalla de asistencia}
+\label{fin_bayes}
+\end{figure}
+
