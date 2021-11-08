@@ -1,0 +1,38 @@
+\newpage
+
+\newline
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=15cm]{Tablas/cofidencialidad.png}
+\caption{Tabla de cofidencialidad (Requisitos no funcinales)}
+\label{fin_bayes}
+\end{figure}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=15cm]{Tablas/look.png}
+\caption{Tabla de look and feel (Requisitos no funcinales)}
+\label{fin_bayes}
+\end{figure}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=15cm]{Tablas/restriccion.png}
+\caption{Tabla de restricción de contenido (Requisitos no funcinales)}
+\label{fin_bayes}
+\end{figure}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=15cm]{Tablas/robustez.png}
+\caption{Tabla de robustez (Requisitos no funcinales)}
+\label{fin_bayes}
+\end{figure}
+
+\begin{figure}[t]
+\centering
+\includegraphics[width=15cm]{Tablas/seguridad.png}
+\caption{Tabla de seguridad (Requisitos no funcinales)}
+\label{fin_bayes}
+\end{figure}
