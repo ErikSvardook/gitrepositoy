@@ -1,0 +1,8 @@
+\newpage
+\newline
+\begin{figure}[t]
+\centering
+\includegraphics[width=15cm]{Imagenes/0001.jpg}
+\caption{Mapa de navegación}
+\label{fin_bayes}
+\end{figure}
