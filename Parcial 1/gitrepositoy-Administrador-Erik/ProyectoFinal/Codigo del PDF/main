@@ -1,0 +1,45 @@
+\documentclass{book}
+\usepackage[letterpaper,top=2cm,bottom=2cm,left=3cm,right=3cm,marginparwidth=1.75cm]{geometry}
+\usepackage{graphicx}
+\usepackage{pdfpages}
+
+\title{Control de escuelas}
+\author{Erik Jarquin Sanchez, Guillermo Daniel Cruz Ortega, Luis Lennin Villarreal Castro}
+
+
+
+
+
+\begin{document}
+\includepdf[ pages=-,]{ PortadaFinal} % el signo - incluye todas las pág.
+
+\newpage
+%tableofcontents
+
+\input{Indice}
+\input{Indicedeimg}
+\input{indicetablas}
+
+\input{Introduccion}
+\input{Proposito}
+\input{Viabilidad}
+
+
+\input{Estandar}
+\input{Roles}
+
+
+
+
+\input{Mapa de navegacion}
+\input{Interfaz}
+\input{Funcional}
+\input{Nofuncional}
+
+
+
+
+
+
+
+\end{document}

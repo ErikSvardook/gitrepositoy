@@ -1,0 +1,15 @@
+\newpage
+\section{Estándar de Codificación}
+\newline
+Para este estándar de codificación se ocupará la notación húngara. La notación húngara hace referencia a la creación de nombre de las variables consiste en prefijos en minúsculas que se añaden a los nombres de las variables y que indican su tipo, ejemplo: intEdad, donde “int” es el tipo de dato el cual es entero y “Edad” es el nombre de la variable. También le hemos agregado que todas las primeras letras del nombre de las variables sean en mayúsculas, para una mejor distinción.
+\newline
+Para los comentarios hemos optado por todas las opciones disponibles para hacerlos “//” y” /**/”.
+La sangría aun esta en discusión ya que esta depende de cada estructura que ocupemos al igual de las clases y métodos, lo ideal seria hacer distinción entre las llaves de apertura y cierre con la cantidad de un tab en las líneas internas del método, ejemplo:
+\newline
+for (int i=1; i < = 10; i++){
+\newline
+	System.out.println(“El número de recorrido es ”+i);
+	\newline
+}
+\newline
+Así se vería la estructura for, y así se idearan los formatos de las demás estructuras, clases y métodos que ocuparemos dentro del proyecto. 
